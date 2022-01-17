@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">XClassloader</string>
+    <string name="module_des">自定义ClassLoader，实现Xposed下的双亲委托模式</string>
+    <string name="module_disable">模块未加载，请前往 Xposed Manager 启用！</string>
+    <string name="module_enabled">模块已成功加载！</string>
+</resources>
